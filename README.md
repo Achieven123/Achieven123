@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Rossum)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3E54AC&height=250&text=Rossum&animation=fadeIn&fontColor=EEEEEE&fontSize=100&fontAlignY=40)
 
 ### Hi there 👋
 
