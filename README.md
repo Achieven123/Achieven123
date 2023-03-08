@@ -3,11 +3,6 @@
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achieven123&theme=buefy) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achieven123&theme=buefy) |
 | ------------- | ------------- |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=achieven123&layout=compact&theme=buefy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achieven123)
-show_icons=true&
-
 <br>
 <hr>
 <br>
