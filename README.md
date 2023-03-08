@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3E54AC&height=250&text=Rossum&animation=fadeIn&fontColor=EEEEEE&fontSize=100&fontAlignY=40&desc=Hello%20World!&descAlign=64)
-https://
-github-readme-stats.vercel.app/api?username=[your username]
+https://github-readme-stats.vercel.app/api?username=[achieven123]
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[achieven123]&show_icons=true&theme=buefy) | ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=achieven123&layout=compact&theme=buefy) |
 | ------------- | ------------- |
 
