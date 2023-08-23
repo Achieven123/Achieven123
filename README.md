@@ -3,7 +3,9 @@
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achieven123) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achieven123) |
 | ------------- | ------------- |
 
-<hr>
+</br>
+</hr>
+</br>
 
 # ⭐ 수상 및 활동내역
 
