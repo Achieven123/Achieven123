@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3E54AC&height=250&text=Rossum&animation=fadeIn&fontColor=EEEEEE&fontSize=100&fontAlignY=40&desc=Hello%20World!&descAlign=64)
 
+</br>
+</br>
+
 # 🛠 Favorite Language & Framework
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
