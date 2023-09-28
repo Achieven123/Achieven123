@@ -15,7 +15,7 @@
 </br>
 
 # 📑 My Github Info
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achieven123) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achieven123) |
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achieven123) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=achieven123)](https://solved.ac/achieven123/) |
 | ------------- | ------------- |
 
 </br>
